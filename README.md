@@ -28,6 +28,8 @@ ___
 * JDBC
 * MySql
 * TomCat 9.0.71
+* JSP
+* HTML/CSS
 ___
 ### How to install app:
 1. Clone this project;
