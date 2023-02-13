@@ -35,6 +35,6 @@ ___
 1. Clone this project;
 2. Install MySQL;
 3. Run script from the resources/init_db.sql file in the Workbench;
-4. Configure ConectionUtil;
+4. Configure ConnectionUtil;
 5. Configure Apache Tomcat;
 6. Start Tomcat;
