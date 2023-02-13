@@ -25,6 +25,7 @@ ___
 ### Technologies used:
 * Java 11
 * Maven
+* Java Servlet API
 * JDBC
 * MySql
 * TomCat 9.0.71
